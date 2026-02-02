@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Nota Diaria.md",
+                "file": "40 Atlas/General.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nota Diaria"
-            }
-          },
-          {
-            "id": "362367ea491f4c93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Inbox/Nota Diaria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nota Diaria"
+              "title": "General"
             }
           }
         ]
@@ -240,11 +226,15 @@
   },
   "active": "9e80c588ee71ea2b",
   "lastOpenFiles": [
-    "20 Trabajo/Preconectorizado (Criterios).md",
+    "90 Assets/Anexos.md",
+    "40 Atlas/General.md",
+    "30 Estudios (Dev)/Temario.md",
+    "10 Planner/Rutina.md",
     "00 Inbox/Nota Diaria.md",
-    "Sin título.md",
-    "20 Trabajo/Fusión.md",
     "20 Trabajo/Diseño de Redes.md",
+    "20 Trabajo/Fusión.md",
+    "20 Trabajo/Preconectorizado (Criterios).md",
+    "Sin título.md",
     "copilot/copilot-conversations/me_ayudas_a_corregir_la_redaccion_que_acabo_de_hacer@20260130_102621.md",
     "Sin nombre",
     "copilot/copilot-conversations/hola@20260119_120016.md",
@@ -271,7 +261,6 @@
     "40 Atlas",
     "30 Estudios (Dev)",
     "20 Trabajo",
-    "10 Planner",
-    "Bienvenido.md"
+    "10 Planner"
   ]
 }
