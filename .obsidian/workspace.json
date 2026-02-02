@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Nota Diaria.md",
+                "file": "40 Atlas/General.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nota Diaria"
+              "title": "General"
             }
           }
         ]
@@ -224,14 +224,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "eae562d799d189df",
+  "active": "9e80c588ee71ea2b",
   "lastOpenFiles": [
-    "copilot/copilot-conversations/hi@20260202_122420.md",
-    "10 Planner/Rutina.md",
-    "00 Inbox/Nota Diaria.md",
-    "copilot/copilot-conversations/Hola@20260202_112919.md",
     "30 Estudios (Dev)/Temario.md",
+    "10 Planner/Rutina.md",
     "40 Atlas/General.md",
+    "00 Inbox/Nota Diaria.md",
+    "copilot/copilot-conversations/hi@20260202_122420.md",
+    "copilot/copilot-conversations/Hola@20260202_112919.md",
     "90 Assets/Anexos.md",
     "20 Trabajo/Diseño de Redes.md",
     "20 Trabajo/Fusión.md",
