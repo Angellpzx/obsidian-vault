@@ -40,9 +40,15 @@
   },
   "20 Trabajo/Preconectorizado (Criterios).md": "LiAlignVerticalDistributeCenter",
   "20 Trabajo/Fusión.md": "LiWaypoints",
-  "00 Inbox/Nota Diaria.md": "LiNotebookPen",
+  "00 Inbox/Nota Diaria.md": {
+    "iconName": "LiNotebookPen",
+    "iconColor": "#2d5b24"
+  },
   "10 Planner/Rutina.md": "LiList",
-  "00 Inbox": "LiInbox",
+  "00 Inbox": {
+    "iconName": "LiInbox",
+    "iconColor": "#265927"
+  },
   "10 Planner": "LiCalendar",
   "20 Trabajo": "LiWorkflow",
   "30 Estudios (Dev)": "LiNotebook",

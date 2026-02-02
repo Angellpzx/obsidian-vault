@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 Atlas/General.md",
+                "file": "10 Planner/Agenda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General"
+              "title": "Agenda"
             }
           }
         ]
@@ -208,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,14 +226,15 @@
   },
   "active": "9e80c588ee71ea2b",
   "lastOpenFiles": [
-    "30 Estudios (Dev)/Temario.md",
     "10 Planner/Rutina.md",
+    "10 Planner/Agenda.md",
+    "20 Trabajo/Diseño de Redes.md",
     "40 Atlas/General.md",
+    "30 Estudios (Dev)/Temario.md",
     "00 Inbox/Nota Diaria.md",
     "copilot/copilot-conversations/hi@20260202_122420.md",
     "copilot/copilot-conversations/Hola@20260202_112919.md",
     "90 Assets/Anexos.md",
-    "20 Trabajo/Diseño de Redes.md",
     "20 Trabajo/Fusión.md",
     "20 Trabajo/Preconectorizado (Criterios).md",
     "Sin título.md",
@@ -253,7 +254,6 @@
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Sin nombre 6",
