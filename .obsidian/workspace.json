@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Trabajo/Diseño Preconectorizado (Criterios).md",
+                "file": "10 Planner/Agenda.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Diseño Preconectorizado (Criterios)"
+              "title": "Enlaces entrantes de Agenda"
             }
           },
           {
@@ -224,7 +224,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "39f4ac345b6b6b1e",
+  "active": "de7a3cda4821ab85",
   "lastOpenFiles": [
     "Sin título.canvas",
     "Sin título.md",
