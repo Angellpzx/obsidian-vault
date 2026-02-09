@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Planner/Agenda.md",
+                "file": "30 Trabajo/Preconectorizado (Criterios).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agenda"
-            }
-          },
-          {
-            "id": "3f24172b90db297d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.11.7"
+              "title": "Preconectorizado (Criterios)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,8 +172,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -225,6 +212,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -233,27 +221,26 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "obsidian-kanban:Create new board": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-git:Open Git source control": false
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3f24172b90db297d",
+  "active": "39f4ac345b6b6b1e",
   "lastOpenFiles": [
+    "30 Trabajo/Fusión.md",
+    "30 Trabajo/Diseño de Redes.md",
+    "10 Planner/Rutina.md",
+    "10 Planner/Agenda.md",
+    "00 Inbox/Nota Diaria.md",
     "Sin título.canvas",
     "Sin título.md",
-    "00 Inbox/Nota Diaria.md",
     "20 Finanzas",
     "30 Trabajo/Preconectorizado (Criterios).md",
     "copilot/copilot-conversations/Holi@20260203_110505.md",
-    "10 Planner/Agenda.md",
-    "10 Planner/Rutina.md",
-    "30 Trabajo/Diseño de Redes.md",
     "40 Atlas/General.md",
     "40 Estudios (Dev)/Temario.md",
     "copilot/copilot-conversations/hi@20260202_122420.md",
     "copilot/copilot-conversations/Hola@20260202_112919.md",
     "90 Assets/Anexos.md",
-    "30 Trabajo/Fusión.md",
     "copilot/copilot-conversations/me_ayudas_a_corregir_la_redaccion_que_acabo_de_hacer@20260130_102621.md",
     "copilot/copilot-conversations/hola@20260119_120016.md",
     "copilot/copilot-conversations",
