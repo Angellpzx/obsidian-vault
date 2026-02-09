@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Agenda"
             }
+          },
+          {
+            "id": "3f24172b90db297d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,7 +237,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "de7a3cda4821ab85",
+  "active": "3f24172b90db297d",
   "lastOpenFiles": [
     "Sin título.canvas",
     "Sin título.md",
