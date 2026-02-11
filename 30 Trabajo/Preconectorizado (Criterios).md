@@ -5,8 +5,9 @@
 4. 80/20
 5. 80/20
 6. 80/20
-7. 90/10
+7. 
 8. 90/10
+9. 90/10
 ## ==**Criterios a tener en consideración**== 
 - Las Mangas HUB soportan hasta fibra de 24H como máximo
 - Máximo 4 fibras por Manga HUB
