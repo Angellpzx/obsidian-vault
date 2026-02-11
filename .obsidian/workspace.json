@@ -11,14 +11,10 @@
             "id": "39f4ac345b6b6b1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30 Trabajo/Preconectorizado (Criterios).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Preconectorizado (Criterios)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -226,9 +222,10 @@
   },
   "active": "39f4ac345b6b6b1e",
   "lastOpenFiles": [
+    "30 Trabajo/Preconectorizado (Criterios).md",
+    "Sin título.base",
     "30 Trabajo/Diseño de Redes.md",
     "30 Trabajo/Fusión.md",
-    "30 Trabajo/Preconectorizado (Criterios).md",
     "10 Planner/Rutina.md",
     "10 Planner/Agenda.md",
     "00 Inbox/Nota Diaria.md",
@@ -260,7 +257,6 @@
     "90 Assets",
     "40 Atlas",
     "40 Estudios (Dev)",
-    "30 Trabajo",
-    "10 Planner"
+    "30 Trabajo"
   ]
 }
