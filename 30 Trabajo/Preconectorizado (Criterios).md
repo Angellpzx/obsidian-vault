@@ -5,9 +5,8 @@
 4. 80/20
 5. 80/20
 6. 80/20
-7. 
+7. 90/10
 8. 90/10
-9. 90/10
 ## ==**Criterios a tener en consideración**== 
 - Las Mangas HUB soportan hasta fibra de 24H como máximo
 - Máximo 4 fibras por Manga HUB
@@ -17,6 +16,7 @@
 - Cada splitter equivale a 2 empalmes
 ### **TAP (Derivador direccional)**
 - Máximo 6 TAP por Manga HUB
+- Medidas (80,110,150m)
 - Máximo 150 metros por TAP
 ### **Rangos de señal**
 - Siempre intentar que se mantenga en los -16db, por posibles expansiones futuras 
