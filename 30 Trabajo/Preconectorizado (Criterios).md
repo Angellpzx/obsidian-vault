@@ -16,6 +16,7 @@
 - Cada splitter equivale a 2 empalmes
 ### **TAP (Derivador direccional)**
 - Máximo 6 TAP por Manga HUB
+- Medidas (80,110,150m)
 - Máximo 150 metros por TAP
 ### **Rangos de señal**
 - Siempre intentar que se mantenga en los -16db, por posibles expansiones futuras 
