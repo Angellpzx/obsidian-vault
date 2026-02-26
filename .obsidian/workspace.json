@@ -172,8 +172,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -185,19 +185,9 @@
               "icon": "message-square",
               "title": "Copilot"
             }
-          },
-          {
-            "id": "fb13189c9b31020e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "170bbc5e2e02a844",
@@ -222,7 +212,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -231,22 +220,20 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "obsidian-kanban:Create new board": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "39f4ac345b6b6b1e",
   "lastOpenFiles": [
-    "30 Trabajo/Fusión.md",
-    "30 Trabajo/Preconectorizado (Criterios).md",
-    "30 Trabajo/Diseño de Redes.md",
     "copilot/copilot-conversations/Resume_el_contenido_de_la_pagina@20260223_083045.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-conversations/hola@20260119_120016.md",
-    "copilot/copilot-conversations/Hola@20260202_112919.md",
-    "Sin título.base",
-    "10 Planner/Rutina.md",
+    "conflict-files-obsidian-git.md",
+    "30 Trabajo/Preconectorizado (Criterios).md",
+    "30 Trabajo/Fusión.md",
+    "30 Trabajo/Diseño de Redes.md",
     "10 Planner/Agenda.md",
     "00 Inbox/Nota Diaria.md",
+    "10 Planner/Rutina.md",
     "Sin título.canvas",
     "Sin título.md",
     "20 Finanzas",
@@ -254,10 +241,13 @@
     "40 Atlas/General.md",
     "40 Estudios (Dev)/Temario.md",
     "copilot/copilot-conversations/hi@20260202_122420.md",
+    "copilot/copilot-conversations/Hola@20260202_112919.md",
     "90 Assets/Anexos.md",
     "copilot/copilot-conversations/me_ayudas_a_corregir_la_redaccion_que_acabo_de_hacer@20260130_102621.md",
+    "copilot/copilot-conversations/hola@20260119_120016.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
@@ -265,13 +255,13 @@
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Sin nombre 6",
     "90 Assets",
     "40 Atlas",
     "40 Estudios (Dev)",
-    "30 Trabajo"
+    "30 Trabajo",
+    "10 Planner"
   ]
 }
