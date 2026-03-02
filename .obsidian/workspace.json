@@ -33,8 +33,7 @@
               "title": "Registro de cambios 1.12.4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,7 +236,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40487870a33637f2",
+  "active": "39f4ac345b6b6b1e",
   "lastOpenFiles": [
     "copilot/copilot-conversations/Resume_el_contenido_de_la_pagina@20260223_083045.md",
     "conflict-files-obsidian-git.md",
