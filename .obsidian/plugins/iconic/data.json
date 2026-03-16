@@ -29,7 +29,12 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "10 Planner/Lista de deseos.md": {
+      "icon": "lucide-shopping-cart",
+      "color": "yellow"
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},

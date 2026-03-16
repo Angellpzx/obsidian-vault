@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Planner/lista de deseos.md",
+                "file": "10 Planner/Lista de deseos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lista de deseos"
+              "title": "Lista de deseos"
             }
           }
         ],
@@ -243,15 +243,15 @@
   },
   "active": "81558624eb2d0603",
   "lastOpenFiles": [
+    "10 Planner/Rutina.md",
+    "10 Planner/Lista de deseos.md",
+    "10 Planner/Agenda.md",
     "00 Inbox/Nota Diaria.md",
-    "10 Planner/lista de deseos.md",
     "30 Trabajo/Diseño de Redes.md",
     "30 Trabajo/Fusión.md",
     "30 Trabajo/Preconectorizado (Criterios).md",
     "copilot/copilot-conversations/Resume_el_contenido_de_la_pagina@20260223_083045.md",
     "conflict-files-obsidian-git.md",
-    "10 Planner/Agenda.md",
-    "10 Planner/Rutina.md",
     "Sin título.canvas",
     "Sin título.md",
     "20 Finanzas",
