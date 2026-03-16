@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "81558624eb2d0603",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.12.4"
+            }
+          },
+          {
             "id": "40487870a33637f2",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "Registro de cambios 1.12.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,7 +249,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39f4ac345b6b6b1e",
+  "active": "81558624eb2d0603",
   "lastOpenFiles": [
     "10 Planner/lista de deseos.md",
     "30 Trabajo/Diseño de Redes.md",
