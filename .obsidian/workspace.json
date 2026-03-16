@@ -25,12 +25,14 @@
             "id": "81558624eb2d0603",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "00 Inbox/Nota Diaria.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.12.4"
+              "icon": "lucide-file",
+              "title": "Nota Diaria"
             }
           },
           {
@@ -246,7 +248,9 @@
       "bases:Crear nueva base": false,
       "obsidian-kanban:Create new board": false,
       "copilot:Open Copilot Chat": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "iconic:Abrir libro de reglas": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
   "active": "81558624eb2d0603",
