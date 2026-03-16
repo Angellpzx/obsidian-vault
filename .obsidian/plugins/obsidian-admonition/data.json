@@ -1,5 +1,19 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "note": {
+      "type": "note",
+      "color": "73, 188, 32",
+      "icon": {
+        "name": "bed",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Habitación",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "10.3.2",
