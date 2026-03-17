@@ -18,13 +18,35 @@ title: Habitación
 - Base o brazo para guitarra (2 unidades)
 - Perchero/Estantería/Armario
 - Lámparas y luces Decorativas
-- Televisión 43 pulgadas 
-
+- Televisión 43 pulgadas
+- Libros
+- Juguetes (Legos o hotwheels)
+- Perilla para la puerta
+- Arreglar puerta
+- Altavoz inteligente
 
 ```ad-self_care
 ```
 
+### **Piel
+---
+- Protector solar
+- Despigmentante
+- Retinol Serum
+- Crema Hidratante Ponds
+- Jabón facial
+- Exfoliante
 
+Gym y Salud
+- Multivitamínico
+- Potasio
+- Magnesio
+- Omega 3
+- Creatina
+
+Cabello
+- Cera/Espuma para definir rizos
+- Champú y acondicionador 
 
 ```ad-oficce
 ```
