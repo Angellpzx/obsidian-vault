@@ -15,7 +15,10 @@ title: Habitación
 - Cuadros decorativos (artísticos o musicales)
 - Cortinas largas
 - Protector de voltaje para el aire acondicionado
-- Base o brazo para guitarra
+- Base o brazo para guitarra (2 unidades)
+- Perchero/Estantería/Armario
+- Lámparas y luces Decorativas
+- Televisión 43 pulgadas 
 
 
 ```ad-self_care
