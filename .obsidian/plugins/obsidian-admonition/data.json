@@ -1,7 +1,7 @@
 {
   "userAdmonitions": {
-    "room": {
-      "type": "room",
+    "note": {
+      "type": "note",
       "color": "73, 188, 32",
       "icon": {
         "name": "bed",
@@ -12,54 +12,6 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
-    },
-    "self_care": {
-      "type": "self_care",
-      "color": "213, 118, 169",
-      "icon": {
-        "name": "bath",
-        "type": "font-awesome"
-      },
-      "command": false,
-      "title": "Cuidado Personal",
-      "injectColor": true,
-      "noTitle": false
-    },
-    "oficce": {
-      "type": "oficce",
-      "color": "106, 104, 227",
-      "icon": {
-        "name": "laptop-code",
-        "type": "font-awesome"
-      },
-      "command": false,
-      "title": "Estudio",
-      "injectColor": true,
-      "noTitle": false
-    },
-    "Home": {
-      "type": "Home",
-      "color": "226, 210, 34",
-      "icon": {
-        "name": "home",
-        "type": "font-awesome"
-      },
-      "command": false,
-      "title": "Hogar",
-      "injectColor": true,
-      "noTitle": false
-    },
-    "style": {
-      "type": "style",
-      "color": "64, 163, 196",
-      "icon": {
-        "name": "tshirt",
-        "type": "font-awesome"
-      },
-      "command": false,
-      "title": "Ropa y accesorios",
-      "injectColor": true,
-      "noTitle": false
     }
   },
   "syntaxHighlight": false,

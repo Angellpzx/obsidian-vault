@@ -6,7 +6,6 @@ banner-y: 60
 ---
 ```ad-room
 title: Habitación
-
 ```
 
 - Espejo
