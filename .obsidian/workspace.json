@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Preconectorizado (Criterios)"
             }
+          },
+          {
+            "id": "22bade1797259f17",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,7 +239,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40487870a33637f2",
+  "active": "22bade1797259f17",
   "lastOpenFiles": [
     "30 Trabajo/Fusión.md",
     "30 Trabajo/Diseño de Redes.md",
