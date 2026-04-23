@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Emprendimiento"
             }
-          },
-          {
-            "id": "a580e0fd0e303afe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,10 +226,10 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "a580e0fd0e303afe",
+  "active": "4aa9abd9c9134fbf",
   "lastOpenFiles": [
-    "10 Planner/Emprendimiento.md",
     "conflict-files-obsidian-git.md",
+    "10 Planner/Emprendimiento.md",
     "10 Planner/Rutina.md",
     "10 Planner/Agenda.md",
     "10 Planner/⭐ Lista de deseos 2026.md",
