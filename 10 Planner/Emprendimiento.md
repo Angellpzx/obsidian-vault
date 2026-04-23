@@ -18,3 +18,4 @@ En Venezuela y LatAm, las PYMES están muy atrasadas tecnológicamente, pero tod
 - **El modelo:** Contraten un "Reseller Hosting" (Alojamiento para revendedores) en empresas como Hostinger o Namecheap (aprox. 20−20−30/mes). Esto les permite dividir ese servidor y vender "paquetes de hosting" a $5 o $10 al mes a negocios locales.
 - **Por qué funciona:** Es escalable. Una vez configurado el cPanel del cliente, el negocio corre solo.
 
+#### 3. Drop shipping (Drop Servicing / Reseller de Hosting)
