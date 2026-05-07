@@ -25,12 +25,14 @@
             "id": "22bade1797259f17",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "30 Trabajo/Preconectorizado (Criterios).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.12.7"
+              "icon": "lucide-file",
+              "title": "Preconectorizado (Criterios)"
             }
           }
         ],
@@ -243,8 +245,9 @@
   "lastOpenFiles": [
     "30 Trabajo/Fusión.md",
     "30 Trabajo/Diseño de Redes.md",
-    "10 Planner/Rutina.md",
     "10 Planner/⭐ Lista de deseos 2026.md",
+    "10 Planner/Agenda.md",
+    "10 Planner/Rutina.md",
     "00 Inbox/Nota Diaria.md",
     "10 Planner/lista de deseos.md",
     "90 Assets/pixel-banner-images/room.jpg",
@@ -268,7 +271,6 @@
     "90 Assets/copilot/copilot-conversations/me_ayudas_a_corregir_la_redaccion_que_acabo_de_hacer@20260130_102621.md",
     "90 Assets/copilot/copilot-conversations/Holi@20260203_110505.md",
     "90 Assets/copilot/copilot-conversations/Hola@20260202_112919.md",
-    "90 Assets/copilot/copilot-conversations/hola@20260119_120016.md",
     "90 Assets/copilot/copilot-custom-prompts",
     "90 Assets/copilot/copilot-conversations",
     "90 Assets/copilot",
