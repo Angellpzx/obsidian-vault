@@ -49,21 +49,5 @@
     "iconColor": "#d6d94a"
   },
   "40 Estudios (Dev)": "LiNotebook",
-  "40 Estudios (Dev)/Temario.md": "LiNotebookText",
-  "Personal/00 Inbox": {
-    "iconName": "LiInbox",
-    "iconColor": "#265927"
-  },
-  "Personal/00 Inbox/Nota Diaria.md": {
-    "iconName": "LiNotebookPen",
-    "iconColor": "#2d5b24"
-  },
-  "Personal/10 Planner": "LiCalendar",
-  "Personal/10 Planner/Agenda.md": "LiStickyNote",
-  "Personal/10 Planner/Emprendimiento.md": "LiDollarSign",
-  "Personal/10 Planner/Rutina.md": "LiList",
-  "Personal/10 Planner/⭐ Lista de deseos 2026.md": {
-    "iconName": "LiShoppingCart",
-    "iconColor": "#7c9424"
-  }
+  "40 Estudios (Dev)/Temario.md": "LiNotebookText"
 }

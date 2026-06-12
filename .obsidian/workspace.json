@@ -11,14 +11,10 @@
             "id": "1614152d133f3f32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/00 Inbox/Nota Diaria.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Nota Diaria"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -157,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/00 Inbox/Nota Diaria.md",
+                "file": "20 Trabajo/Diseño Preconectorizado.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Nota Diaria"
+              "title": "Esquema de Diseño Preconectorizado"
             }
           },
           {
@@ -185,19 +181,9 @@
               "icon": "message-square",
               "title": "Copilot"
             }
-          },
-          {
-            "id": "25040d9b6d2a5fb8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "170bbc5e2e02a844",
@@ -222,8 +208,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "iconic:Abrir libro de reglas": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -233,18 +217,27 @@
       "bases:Crear nueva base": false,
       "obsidian-kanban:Create new board": false,
       "copilot:Open Copilot Chat": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "iconic:Abrir libro de reglas": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "de7a3cda4821ab85",
+  "active": "1614152d133f3f32",
   "lastOpenFiles": [
-    "Personal",
     "Sin nombre/hola mundo.md",
+    "Personal/10 Planner/⭐ Lista de deseos 2026.md",
+    "Personal/10 Planner/Rutina.md",
+    "Personal/10 Planner/Emprendimiento.md",
+    "Personal/10 Planner/Agenda.md",
     "Personal/00 Inbox/Nota Diaria.md",
-    "Sin nombre/Sin título.md",
+    "Personal/10 Planner",
+    "Personal/00 Inbox",
+    "Personal",
     "copilot/copilot-conversations/holi@20260612_153301.md",
     "Sin título.md",
-    "Personal/10 Planner/Emprendimiento.md",
+    "10 Planner/Emprendimiento.md",
+    "Sin nombre",
+    "00 Inbox/Nota Diaria.md",
     "30 Trabajo/Preconectorizado (Criterios).md",
     "copilot/copilot-conversations/que_tengo_en_esta_hoja@20260507_112755.md",
     "copilot/copilot-conversations",
@@ -252,9 +245,9 @@
     "conflict-files-obsidian-git.md",
     "30 Trabajo/Fusión.md",
     "30 Trabajo/Diseño de Redes.md",
-    "Personal/10 Planner/⭐ Lista de deseos 2026.md",
-    "Personal/10 Planner/Agenda.md",
-    "Personal/10 Planner/Rutina.md",
+    "10 Planner/⭐ Lista de deseos 2026.md",
+    "10 Planner/Agenda.md",
+    "10 Planner/Rutina.md",
     "10 Planner/lista de deseos.md",
     "90 Assets/pixel-banner-images/room.jpg",
     "90 Assets/pixel-banner-images",
@@ -265,15 +258,9 @@
     "90 Assets/copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "90 Assets/copilot/copilot-custom-prompts/Remove URLs.md",
     "90 Assets/copilot/copilot-custom-prompts/Make shorter.md",
-    "90 Assets/copilot/copilot-custom-prompts/Make longer.md",
-    "90 Assets/copilot/copilot-custom-prompts/Generate table of contents.md",
-    "90 Assets/copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "90 Assets/copilot/copilot-custom-prompts",
     "90 Assets/copilot/copilot-conversations",
     "90 Assets/copilot",
-    "Sin título.canvas",
-    "20 Finanzas",
-    "copilot/copilot-custom-prompts",
-    "Sin nombre 6"
+    "Sin título.canvas"
   ]
 }
