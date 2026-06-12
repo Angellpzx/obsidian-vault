@@ -212,6 +212,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "iconic:Abrir libro de reglas": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -221,9 +223,7 @@
       "bases:Crear nueva base": false,
       "obsidian-kanban:Create new board": false,
       "copilot:Open Copilot Chat": false,
-      "obsidian-git:Open Git source control": false,
-      "iconic:Abrir libro de reglas": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "1614152d133f3f32",
