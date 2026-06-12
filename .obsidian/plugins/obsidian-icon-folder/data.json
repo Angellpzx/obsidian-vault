@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiChartNetwork",
       "LiArchive",
       "LiUser",
       "LiShoppingCart",
-      "LiStickyNote",
-      "LiDollarSign"
+      "LiStickyNote"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -67,5 +67,6 @@
   "Personal/40 Estudios (Dev)/Temario.md": "LiNotebookText",
   "Personal/90 Assets": "LiImage",
   "Personal": "LiUser",
-  "Trabajo": "LiArchive"
+  "Trabajo": "LiArchive",
+  "Proyecto Fibex Aliados Comerciales.md": "LiChartNetwork"
 }
