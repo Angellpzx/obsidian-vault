@@ -212,8 +212,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "iconic:Abrir libro de reglas": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -223,11 +221,14 @@
       "bases:Crear nueva base": false,
       "obsidian-kanban:Create new board": false,
       "copilot:Open Copilot Chat": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "iconic:Abrir libro de reglas": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "1614152d133f3f32",
+  "active": "eae562d799d189df",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/holi@20260612_153301.md",
     "Sin título.md",
     "Sin nombre/Sin título.md",
     "10 Planner/Emprendimiento.md",
@@ -258,7 +259,6 @@
     "90 Assets/copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "90 Assets/copilot/copilot-custom-prompts/Generate glossary.md",
     "90 Assets/copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "90 Assets/copilot/copilot-custom-prompts/Emojify.md",
     "90 Assets/copilot/copilot-custom-prompts",
     "90 Assets/copilot/copilot-conversations",
     "90 Assets/copilot",
