@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArchive",
       "LiUser",
       "LiShoppingCart",
       "LiStickyNote",
-      "LiDollarSign",
-      "LiNotebookText"
+      "LiDollarSign"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -66,5 +66,6 @@
   "Personal/40 Estudios (Dev)": "LiNotebook",
   "Personal/40 Estudios (Dev)/Temario.md": "LiNotebookText",
   "Personal/90 Assets": "LiImage",
-  "Personal": "LiUser"
+  "Personal": "LiUser",
+  "Trabajo": "LiArchive"
 }

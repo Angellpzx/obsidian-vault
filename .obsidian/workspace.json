@@ -11,10 +11,14 @@
             "id": "6c40be0ea7cadc53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Sin título"
             }
           }
         ]
@@ -153,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/00 Inbox/Nota Diaria.md",
+                "file": "Sin título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Nota Diaria"
+              "title": "Esquema de Sin título"
             }
           },
           {
@@ -232,15 +236,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de7a3cda4821ab85",
+  "active": "6c40be0ea7cadc53",
   "lastOpenFiles": [
+    "Sin título.md",
+    "Personal/00 Inbox/Nota Diaria.md",
     "Trabajo",
     "Personal",
     "Sin nombre/hola mundo.md",
-    "Personal/00 Inbox/Nota Diaria.md",
     "Sin nombre/Sin título.md",
     "Personal/copilot/copilot-conversations/holi@20260612_153301.md",
-    "Sin título.md",
     "Personal/10 Planner/Emprendimiento.md",
     "Personal/30 Trabajo/Preconectorizado (Criterios).md",
     "Personal/copilot/copilot-conversations/que_tengo_en_esta_hoja@20260507_112755.md",
@@ -270,7 +274,6 @@
     "Personal/90 Assets/copilot",
     "Sin título.canvas",
     "Personal/20 Finanzas",
-    "copilot/copilot-custom-prompts",
-    "Sin nombre 6"
+    "copilot/copilot-custom-prompts"
   ]
 }
