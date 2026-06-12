@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiUser",
       "LiShoppingCart",
       "LiStickyNote",
       "LiDollarSign",
-      "LiNotebookText",
-      "LiNotebookPen"
+      "LiNotebookText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,22 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "40 Atlas": "LiAlbum",
-  "90 Assets": "LiImage",
-  "40 Atlas/General.md": "LiNotebookText",
-  "30 Trabajo": "LiWorkflow",
-  "30 Trabajo/Fusión.md": "LiWaypoints",
-  "30 Trabajo/Diseño de Redes.md": {
-    "iconName": "LiWifi",
-    "iconColor": "#47a6e1"
-  },
-  "30 Trabajo/Preconectorizado (Criterios).md": "LiAlignVerticalDistributeCenter",
-  "20 Finanzas": {
-    "iconName": "LiDollarSign",
-    "iconColor": "#d6d94a"
-  },
-  "40 Estudios (Dev)": "LiNotebook",
-  "40 Estudios (Dev)/Temario.md": "LiNotebookText",
   "Personal/00 Inbox": {
     "iconName": "LiInbox",
     "iconColor": "#265927"
@@ -65,5 +49,22 @@
   "Personal/10 Planner/⭐ Lista de deseos 2026.md": {
     "iconName": "LiShoppingCart",
     "iconColor": "#7c9424"
-  }
+  },
+  "Personal/20 Finanzas": {
+    "iconName": "LiDollarSign",
+    "iconColor": "#d6d94a"
+  },
+  "Personal/30 Trabajo": "LiWorkflow",
+  "Personal/30 Trabajo/Diseño de Redes.md": {
+    "iconName": "LiWifi",
+    "iconColor": "#47a6e1"
+  },
+  "Personal/30 Trabajo/Fusión.md": "LiWaypoints",
+  "Personal/30 Trabajo/Preconectorizado (Criterios).md": "LiAlignVerticalDistributeCenter",
+  "Personal/40 Atlas": "LiAlbum",
+  "Personal/40 Atlas/General.md": "LiNotebookText",
+  "Personal/40 Estudios (Dev)": "LiNotebook",
+  "Personal/40 Estudios (Dev)/Temario.md": "LiNotebookText",
+  "Personal/90 Assets": "LiImage",
+  "Personal": "LiUser"
 }
