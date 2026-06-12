@@ -34,16 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "00 Inbox/Nota Diaria.md": {
-    "iconName": "LiNotebookPen",
-    "iconColor": "#2d5b24"
-  },
-  "10 Planner/Rutina.md": "LiList",
-  "00 Inbox": {
-    "iconName": "LiInbox",
-    "iconColor": "#265927"
-  },
-  "10 Planner": "LiCalendar",
   "40 Atlas": "LiAlbum",
   "90 Assets": "LiImage",
   "40 Atlas/General.md": "LiNotebookText",
@@ -60,10 +50,20 @@
   },
   "40 Estudios (Dev)": "LiNotebook",
   "40 Estudios (Dev)/Temario.md": "LiNotebookText",
-  "10 Planner/Agenda.md": "LiStickyNote",
-  "10 Planner/⭐ Lista de deseos 2026.md": {
+  "Personal/00 Inbox": {
+    "iconName": "LiInbox",
+    "iconColor": "#265927"
+  },
+  "Personal/00 Inbox/Nota Diaria.md": {
+    "iconName": "LiNotebookPen",
+    "iconColor": "#2d5b24"
+  },
+  "Personal/10 Planner": "LiCalendar",
+  "Personal/10 Planner/Agenda.md": "LiStickyNote",
+  "Personal/10 Planner/Emprendimiento.md": "LiDollarSign",
+  "Personal/10 Planner/Rutina.md": "LiList",
+  "Personal/10 Planner/⭐ Lista de deseos 2026.md": {
     "iconName": "LiShoppingCart",
     "iconColor": "#7c9424"
-  },
-  "10 Planner/Emprendimiento.md": "LiDollarSign"
+  }
 }
