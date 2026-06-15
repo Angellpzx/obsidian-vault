@@ -6,11 +6,19 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+<<<<<<< HEAD
       "LiShoppingCart",
       "LiStickyNote",
       "LiDollarSign",
       "LiNotebookText",
       "LiNotebookPen"
+=======
+      "LiChartNetwork",
+      "LiArchive",
+      "LiUser",
+      "LiShoppingCart",
+      "LiStickyNote"
+>>>>>>> origin/main
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +45,24 @@
   "20 Finanzas": {
     "iconName": "LiDollarSign",
     "iconColor": "#d6d94a"
+<<<<<<< HEAD
   }
+=======
+  },
+  "Personal/30 Trabajo": "LiWorkflow",
+  "Personal/30 Trabajo/Diseño de Redes.md": {
+    "iconName": "LiWifi",
+    "iconColor": "#47a6e1"
+  },
+  "Personal/30 Trabajo/Fusión.md": "LiWaypoints",
+  "Personal/30 Trabajo/Preconectorizado (Criterios).md": "LiAlignVerticalDistributeCenter",
+  "Personal/40 Atlas": "LiAlbum",
+  "Personal/40 Atlas/General.md": "LiNotebookText",
+  "Personal/40 Estudios (Dev)": "LiNotebook",
+  "Personal/40 Estudios (Dev)/Temario.md": "LiNotebookText",
+  "Personal/90 Assets": "LiImage",
+  "Personal": "LiUser",
+  "Trabajo": "LiArchive",
+  "Proyecto Fibex Aliados Comerciales.md": "LiChartNetwork"
+>>>>>>> origin/main
 }

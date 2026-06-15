@@ -11,10 +11,14 @@
             "id": "2313f61f8c32920a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -222,9 +226,10 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "2313f61f8c32920a",
+  "active": "de7a3cda4821ab85",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Proyecto Fibex Aliados Comerciales.md",
     "Personal/copilot/copilot-conversations/que_tengo_en_esta_hoja@20260507_112755.md",
     "Personal/copilot/copilot-conversations/holi@20260612_153301.md",
     "Personal/copilot/copilot-conversations",
@@ -257,7 +262,6 @@
     "Personal/90 Assets/copilot",
     "Personal/90 Assets/Anexos.md",
     "Personal/90 Assets",
-    "Personal/40 Estudios (Dev)/Temario.md",
     "Personal/40 Estudios (Dev)",
     "Personal/40 Atlas",
     "Personal/30 Trabajo",
