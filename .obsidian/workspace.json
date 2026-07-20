@@ -208,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,8 +230,8 @@
   "active": "d15fee01d5496100",
   "lastOpenFiles": [
     "30 Trabajo/Fusión.md",
-    "30 Trabajo/Preconectorizado (Criterios).md",
     "30 Trabajo/Diseño de Redes.md",
+    "30 Trabajo/Preconectorizado (Criterios).md",
     "conflict-files-obsidian-git.md",
     "Proyecto Fibex Aliados Comerciales.md",
     "copilot/copilot-conversations/que_tengo_en_esta_hoja@20260507_112755.md",
