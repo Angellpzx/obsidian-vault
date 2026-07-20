@@ -11,10 +11,14 @@
             "id": "d15fee01d5496100",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "30 Trabajo/Fusión.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Fusión"
             }
           }
         ]
@@ -222,8 +226,11 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "de7a3cda4821ab85",
+  "active": "d15fee01d5496100",
   "lastOpenFiles": [
+    "30 Trabajo/Preconectorizado (Criterios).md",
+    "30 Trabajo/Fusión.md",
+    "30 Trabajo/Diseño de Redes.md",
     "conflict-files-obsidian-git.md",
     "Proyecto Fibex Aliados Comerciales.md",
     "copilot/copilot-conversations/que_tengo_en_esta_hoja@20260507_112755.md",
@@ -249,14 +256,11 @@
     "90 Assets/copilot/copilot-conversations/me_ayudas_a_corregir_la_redaccion_que_acabo_de_hacer@20260130_102621.md",
     "90 Assets/copilot/copilot-conversations/Holi@20260203_110505.md",
     "90 Assets/copilot/copilot-conversations/Hola@20260202_112919.md",
-    "90 Assets/copilot/copilot-conversations/hola@20260119_120016.md",
-    "90 Assets/copilot/copilot-conversations/hi@20260202_122420.md",
     "90 Assets/pixel-banner-images/room.jpg",
     "90 Assets/copilot/copilot-custom-prompts",
     "90 Assets/copilot/copilot-conversations",
     "90 Assets/pixel-banner-images",
     "90 Assets/copilot",
-    "90 Assets/Anexos.md",
     "90 Assets",
     "40 Estudios (Dev)",
     "40 Atlas",
