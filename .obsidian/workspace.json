@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Trabajo/Diseño de Redes.md",
+                "file": "00 Inbox/Nota Diaria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diseño de Redes"
+              "title": "Nota Diaria"
             }
           },
           {
@@ -33,8 +33,7 @@
               "title": "Registro de cambios 1.13.7"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,11 +241,11 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "4c55e2c415d06890",
+  "active": "de7a3cda4821ab85",
   "lastOpenFiles": [
+    "30 Trabajo/Preconectorizado (Criterios).md",
     "30 Trabajo/Fusión.md",
     "30 Trabajo/Diseño de Redes.md",
-    "30 Trabajo/Preconectorizado (Criterios).md",
     "conflict-files-obsidian-git.md",
     "Proyecto Fibex Aliados Comerciales.md",
     "copilot/copilot-conversations/que_tengo_en_esta_hoja@20260507_112755.md",
