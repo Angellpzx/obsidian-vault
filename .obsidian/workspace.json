@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Diseño de Redes"
             }
+          },
+          {
+            "id": "4c55e2c415d06890",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.13.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,7 +242,7 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "de7a3cda4821ab85",
+  "active": "4c55e2c415d06890",
   "lastOpenFiles": [
     "30 Trabajo/Fusión.md",
     "30 Trabajo/Diseño de Redes.md",
