@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Emprendimiento"
             }
+          },
+          {
+            "id": "15aedb743f1b4063",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,7 +239,7 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "4aa9abd9c9134fbf",
+  "active": "15aedb743f1b4063",
   "lastOpenFiles": [
     "10 Planner/⭐ Lista de deseos 2026.md",
     "10 Planner/Emprendimiento.md",
