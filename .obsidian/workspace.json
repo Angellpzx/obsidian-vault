@@ -25,12 +25,14 @@
             "id": "15aedb743f1b4063",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "30 Trabajo/Diseño de Redes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.12.7"
+              "icon": "lucide-file",
+              "title": "Diseño de Redes"
             }
           }
         ],
@@ -223,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,13 +246,13 @@
   },
   "active": "15aedb743f1b4063",
   "lastOpenFiles": [
+    "10 Planner/Emprendimiento.md",
     "conflict-files-obsidian-git.md",
     "copilot/copilot-conversations/que_tengo_en_esta_hoja@20260507_112755.md",
     "copilot/copilot-conversations/holi@20260612_153301.md",
     "copilot/copilot-conversations",
     "copilot",
     "10 Planner/⭐ Lista de deseos 2026.md",
-    "10 Planner/Emprendimiento.md",
     "10 Planner/Rutina.md",
     "10 Planner/Agenda.md",
     "Sin título.canvas",
