@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Preconectorizado (Criterios)"
             }
+          },
+          {
+            "id": "3d7217547617c732",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.14.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,7 +256,7 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "15aedb743f1b4063",
+  "active": "3d7217547617c732",
   "lastOpenFiles": [
     "10 Planner/⭐ Lista de deseos 2026.md",
     "30 Trabajo/Preconectorizado (Criterios).md",
