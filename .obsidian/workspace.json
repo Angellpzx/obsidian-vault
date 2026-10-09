@@ -39,12 +39,14 @@
             "id": "3d7217547617c732",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.4"
+                "file": "30 Trabajo/Preconectorizado (Criterios).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.14.4"
+              "icon": "lucide-file",
+              "title": "Preconectorizado (Criterios)"
             }
           }
         ],
@@ -258,9 +260,10 @@
   },
   "active": "3d7217547617c732",
   "lastOpenFiles": [
-    "10 Planner/⭐ Lista de deseos 2026.md",
-    "30 Trabajo/Preconectorizado (Criterios).md",
     "30 Trabajo/Diseño de Redes.md",
+    "30 Trabajo/Preconectorizado (Criterios).md",
+    "30 Trabajo/Fusión.md",
+    "10 Planner/⭐ Lista de deseos 2026.md",
     "10 Planner/Emprendimiento.md",
     "conflict-files-obsidian-git.md",
     "copilot/copilot-conversations/que_tengo_en_esta_hoja@20260507_112755.md",
@@ -276,7 +279,6 @@
     "90 Assets/pixel-banner-images",
     "Untitled Kanban.md",
     "00 Inbox/Nota Diaria.md",
-    "30 Trabajo/Fusión.md",
     "90 Assets/copilot/copilot-conversations/Resume_el_contenido_de_la_pagina@20260223_083045.md",
     "Sin título.md",
     "20 Finanzas",
