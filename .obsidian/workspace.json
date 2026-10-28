@@ -209,8 +209,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "icon": "message-square",
+              "title": "Copilot Quick Chat"
             }
           },
           {
@@ -222,9 +222,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "d53575950f15bb3f",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-agent-chat-view",
+              "state": {},
+              "icon": "copilot-agent",
+              "title": "Copilot Agent Chat"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "170bbc5e2e02a844",
@@ -245,7 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 588.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,10 +270,11 @@
       "copilot:Open Copilot Chat": false,
       "iconic:Abrir libro de reglas": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "3d7217547617c732",
+  "active": "d53575950f15bb3f",
   "lastOpenFiles": [
     "30 Trabajo/Preconectorizado (Criterios).md",
     "30 Trabajo/Diseño de Redes.md",
