@@ -39,10 +39,14 @@
             "id": "3d7217547617c732",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "10 Planner/Agenda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agenda"
             }
           }
         ],
@@ -267,15 +271,15 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "obsidian-kanban:Create new board": false,
-      "copilot:Open Copilot Chat": false,
       "iconic:Abrir libro de reglas": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "d53575950f15bb3f",
+  "active": "3d7217547617c732",
   "lastOpenFiles": [
+    "00 Inbox/Nota Diaria.md",
     "30 Trabajo/Preconectorizado (Criterios).md",
     "30 Trabajo/Diseño de Redes.md",
     "30 Trabajo/Fusión.md",
@@ -294,7 +298,6 @@
     "pixel-banner-images/4c3745ffb4b6fe940947afe10265055d.jpg",
     "90 Assets/pixel-banner-images",
     "Untitled Kanban.md",
-    "00 Inbox/Nota Diaria.md",
     "90 Assets/copilot/copilot-conversations/Resume_el_contenido_de_la_pagina@20260223_083045.md",
     "Sin título.md",
     "20 Finanzas",

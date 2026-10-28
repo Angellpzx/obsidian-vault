@@ -32,7 +32,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "00 Inbox": "LiInbox",
+  "00 Inbox": {
+    "iconName": "LiInbox",
+    "iconColor": "#08c437"
+  },
   "10 Planner": "LiClipboardClock",
   "20 Finanzas": "LiDollarSign"
 }
