@@ -7,9 +7,9 @@
   "dataview",
   "mlir-syntax-highlight",
   "execute-code",
-  "copilot",
   "iconic",
   "pexels-banner",
   "obsidian-admonition",
-  "obsidian-git"
+  "obsidian-git",
+  "agent-client"
 ]

@@ -208,16 +208,6 @@
             }
           },
           {
-            "id": "eae562d799d189df",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot Quick Chat"
-            }
-          },
-          {
             "id": "4cb0c5732d872f78",
             "type": "leaf",
             "state": {
@@ -226,19 +216,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "d53575950f15bb3f",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-agent-chat-view",
-              "state": {},
-              "icon": "copilot-agent",
-              "title": "Copilot Agent Chat"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       },
       {
         "id": "170bbc5e2e02a844",
@@ -274,16 +254,18 @@
       "iconic:Abrir libro de reglas": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Agent Chat": false
+      "copilot:Open Copilot Agent Chat": false,
+      "agent-client:Open agent client": false
     }
   },
-  "active": "3d7217547617c732",
+  "active": "4cb0c5732d872f78",
   "lastOpenFiles": [
+    "10 Planner/⭐ Lista de deseos 2026.md",
+    "10 Planner/Agenda.md",
     "00 Inbox/Nota Diaria.md",
     "30 Trabajo/Preconectorizado (Criterios).md",
     "30 Trabajo/Diseño de Redes.md",
     "30 Trabajo/Fusión.md",
-    "10 Planner/⭐ Lista de deseos 2026.md",
     "10 Planner/Emprendimiento.md",
     "conflict-files-obsidian-git.md",
     "copilot/copilot-conversations/que_tengo_en_esta_hoja@20260507_112755.md",
@@ -291,7 +273,6 @@
     "copilot/copilot-conversations",
     "copilot",
     "10 Planner/Rutina.md",
-    "10 Planner/Agenda.md",
     "Sin título.canvas",
     "10 Planner/lista de deseos.md",
     "90 Assets/pixel-banner-images/room.jpg",
