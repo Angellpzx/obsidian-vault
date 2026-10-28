@@ -213,8 +213,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           }
         ],
@@ -231,8 +231,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -253,7 +253,6 @@
       "bases:Crear nueva base": false,
       "obsidian-kanban:Create new board": false,
       "copilot:Open Copilot Chat": false,
-      "obsidian-git:Open Git source control": false,
       "iconic:Abrir libro de reglas": false,
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
