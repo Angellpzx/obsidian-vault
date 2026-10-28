@@ -36,17 +36,13 @@
             }
           },
           {
-            "id": "3d7217547617c732",
+            "id": "182f0a3119852cb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 Planner/Agenda.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Agenda"
+              "title": "Nueva pestaña"
             }
           }
         ],
@@ -258,15 +254,15 @@
       "agent-client:Open agent client": false
     }
   },
-  "active": "4cb0c5732d872f78",
+  "active": "182f0a3119852cb4",
   "lastOpenFiles": [
-    "10 Planner/⭐ Lista de deseos 2026.md",
-    "10 Planner/Agenda.md",
-    "00 Inbox/Nota Diaria.md",
     "30 Trabajo/Preconectorizado (Criterios).md",
+    "10 Planner/Emprendimiento.md",
+    "10 Planner/Agenda.md",
+    "10 Planner/⭐ Lista de deseos 2026.md",
+    "00 Inbox/Nota Diaria.md",
     "30 Trabajo/Diseño de Redes.md",
     "30 Trabajo/Fusión.md",
-    "10 Planner/Emprendimiento.md",
     "conflict-files-obsidian-git.md",
     "copilot/copilot-conversations/que_tengo_en_esta_hoja@20260507_112755.md",
     "copilot/copilot-conversations/holi@20260612_153301.md",
